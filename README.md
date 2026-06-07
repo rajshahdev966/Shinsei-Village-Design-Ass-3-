@@ -2,7 +2,7 @@
 
 A high-fidelity landing page for the **Shinsei Village** Web3 project, built as a milestone assignment for **Sheryians Coding School Cohort 3.0**.
 
-![Landing Page Preview](./obtained output.png)
+![Landing Page Preview](./output.png)
 
 ---
 
